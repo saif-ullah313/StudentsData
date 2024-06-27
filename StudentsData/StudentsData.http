@@ -1,0 +1,6 @@
+@StudentsData_HostAddress = http://localhost:5039
+
+GET {{StudentsData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saifu\\source\\repos\\StudentsData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|c:\\users\\saifu\\source\\repos\\studentsdata\\studentsdata\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|solutionrelative:studentsdata\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|c:\\users\\saifu\\source\\repos\\studentsdata\\studentsdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|solutionrelative:studentsdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|c:\\users\\saifu\\source\\repos\\studentsdata\\studentsdata\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|solutionrelative:studentsdata\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|c:\\users\\saifu\\source\\repos\\studentsdata\\studentsdata\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|solutionrelative:studentsdata\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|c:\\users\\saifu\\source\\repos\\studentsdata\\studentsdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|solutionrelative:studentsdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|c:\\users\\saifu\\source\\repos\\studentsdata\\studentsdata\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4718A5B9-6A1A-48EA-8649-F35A1C4AF8E4}|StudentsData\\StudentsData.csproj|solutionrelative:studentsdata\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "StudentsData\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Context\\DapperContext.cs",
+              "RelativeToolTip": "StudentsData\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:52:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsData\\appsettings.json",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\appsettings.json",
+              "RelativeToolTip": "StudentsData\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T12:44:10.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentsData\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentsData\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAC0AAAAAMzMzM7MewEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:34:23.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentsData\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentsData\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:28:46.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsData\\Program.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Program.cs",
+              "RelativeToolTip": "StudentsData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:46:38.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentsData\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\saifu\\source\\repos\\StudentsData\\StudentsData\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentsData\\Services\\StudentService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:01:27.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
